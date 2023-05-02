@@ -7,3 +7,4 @@
 /target/classes/application.properties
 /target/classes/logback.xml
 src/main/resources/log4jdbc.log4j2.properties
+.mvn
